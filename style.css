@@ -1,0 +1,23 @@
+.img-width{
+    width:200px;
+    margin-left:25px;
+}
+.img-width img{
+    width:100%;
+}
+.background{
+    background-color: white;
+}
+.font-size h2{
+    font-size: 20px;
+    margin-top:15px;
+}
+.back{
+    box-shadow: 10px 10px 40px grey;
+    width:300px;
+    margin:0 auto;
+    padding:10px;
+}
+.auto{
+    margin:0 auto;
+}
